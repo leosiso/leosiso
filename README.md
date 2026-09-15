@@ -1,20 +1,34 @@
-# Hi there, I'm LeoSiso 👋
+<div align="center">
 
-### 🛡️ Systems, Networking & Security Architect
-Focused on high-performance network tunnels, censorship-resistant protocols (RFC 7258) and clean client-server architectures.
+# LeoSiso
 
-`yaml
-stack:
-  core: [Go, C, Kotlin, NDK]
-  web: [Vue 3, TypeScript, Python / FastAPI, TailwindCSS]
-  protocols: [TCP, TLS/uTLS, QUIC, VLESS, SOCKS5, TUN]
-  focus: [Censorship Circumvention, Zero-Trust, Network Stability]
-`
+**Low-Level Networking • Android Internals • Network Resilience**
 
-### 🚀 Active Projects
-- **[HuliHost](https://huli.host)** — Resilient, high-speed multi-platform networking suite engineered against pervasive DPI monitoring.
+*Building robust bypass engines, raw TUN drivers and traffic obfuscation tools.*
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leosiso&show_icons=true&theme=tokyonight&hide_border=true" alt="LeoSiso GitHub Stats" />
+
+`
+$ whoami
+> Independent developer exploring protocol internals and DPI resistance.
+`
+
+</div>
+
+### ⚡ Core Focus
+
+- 🛡️ **Network Routing & TUN Devices** — Virtual network interfaces, IP routing, packet inspection & proxying.
+- 🔒 **Protocol Obfuscation & Security** — TLS fingerprinting (uTLS), anti-censorship protocols, traffic shape masking.
+- 📱 **Android System Architecture** — NDK/C core bindings, low-overhead native tunnels, battery & memory optimization.
+
+### 🛠️ Languages & Tools
+
+<p>
+  <code>Go</code> • <code>Kotlin</code> • <code>C / NDK</code> • <code>Python</code> • <code>Linux (WSL / POSIX)</code>
 </p>
+
+---
+
+<div align="center">
+  <sub><i>"Pervasive monitoring is an attack." — RFC 7258</i></sub>
+</div>
