@@ -8,9 +8,9 @@
 
 ---
 
-`
+`ash
 $ whoami
-> Independent developer exploring protocol internals and DPI resistance.
+Independent developer exploring protocol internals and network security.
 `
 
 </div>
@@ -24,11 +24,5 @@ $ whoami
 ### 🛠️ Languages & Tools
 
 <p>
-  <code>Go</code> • <code>Kotlin</code> • <code>C / NDK</code> • <code>Python</code> • <code>Linux (WSL / POSIX)</code>
+  <code>Go</code> • <code>Kotlin</code> • <code>C / NDK</code> • <code>Python</code> • <code>Linux</code>
 </p>
-
----
-
-<div align="center">
-  <sub><i>"Pervasive monitoring is an attack." — RFC 7258</i></sub>
-</div>
