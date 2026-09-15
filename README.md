@@ -8,10 +8,9 @@
 
 ---
 
-`ash
-$ whoami
 Independent developer exploring protocol internals and network security.
-`
+
+---
 
 </div>
 
