@@ -18,30 +18,27 @@
 
 ### 🛡️ Core Engineering Disciplines
 
-- **Defensive Security & Anti-Tamper**: Vulnerability research, binary integrity verification, deterministic resource cleanup, and safe runtime hooking.
-- **Low-Level Networking & Data Plane**: Virtual TUN/TAP interfaces, raw socket routing, TLS fingerprint simulation, and zero-allocation packet processing pipelines.
-- **Runtime Instrumentation & Binary Patching**: User-mode API hooking, binary structure analysis (PE, ASAR), dynamic instrumentation, and atomic patch application.
-- **Systems Architecture & Performance**: Windows internals, Linux interfaces, Android NDK native components, and high-concurrency event loops.
+- **Low-Level Networking & Data Plane Engineering**: Virtual TUN/TAP device drivers, raw packet filtering, TLS fingerprint simulation, protocol obfuscation, and zero-allocation packet processing pipelines.
+- **Defensive Security & Anti-Tamper Mechanisms**: Vulnerability assessments, cryptographic integrity verification, anti-tamper logic, deterministic resource lifecycle management, and boundary validation.
+- **Runtime Instrumentation & Binary Patching**: User-mode API hooking, binary structure analysis (PE, ASAR), dynamic patching, trampoline hooks, and reversible snapshot architectures.
+- **High-Performance Systems Architecture**: Windows Win32 internals, Linux kernel interfaces, Android NDK native components, memory-safe data planes, and high-concurrency event loops.
 
 ---
 
 ### 🛠️ Technology Stack & Toolchain
 
-| Domain | Technologies |
+| Domain | Technologies & Toolchain |
 | :--- | :--- |
-| **Languages** | `Rust` `Go` `C / C++` `Kotlin` `TypeScript` `Python` |
-| **Systems & Platforms** | `Windows` `Linux` `Android NDK` `Tauri 2.0` `Electron` |
-| **Networking & Protocols** | `TUN / TAP Drivers` `Raw Sockets` `uTLS` `TCP / UDP / IP Routing` `Wireshark` |
-| **Engineering Invariants** | `Zero-Allocation Hot Paths` `Safety First Backups` `Atomic Rollbacks` `SHA-256 Auditing` |
+| **Languages** | `Rust` `Go` `C` `C++` `Kotlin` `Java` `TypeScript` `Python` `Bash` `PowerShell` `x86_64 ASM` |
+| **Systems & Platforms** | `Windows (Win32, DWM, PE Internals)` `Linux (Kernel, systemd, eBPF)` `Android (NDK, JNI, AOSP)` `Tauri 2.0` `Electron` `Docker` |
+| **Networking & Protocols** | `TUN / TAP Drivers` `Raw Sockets` `TLS Fingerprinting (uTLS)` `VLESS / Trojan / Shadowsocks` `QUIC / HTTP/3` `iptables / nftables` `Wireshark / tcpdump` |
+| **Reverse Engineering & Patching** | `API Hooking (MinHook, Detours)` `PE / ASAR Extraction` `Disassembly (IDA Pro, Ghidra)` `Dynamic Patching` `WinDbg / x64dbg` |
+| **Defensive Security & Auditing** | `Threat Modeling` `Memory Safety Auditing` `Integrity Verification (SHA-256, Ed25519)` `Anti-Tamper Verification` `Boundary Sanitization` |
+| **High-Performance Data Plane** | `Zero-Allocation Hot Paths` `Asynchronous I/O (Tokio, epoll, IOCP)` `Deterministic RAII Cleanup` `Lock-Free Structures` `Atomic Operations` |
 
 ---
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leosiso&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8)](https://github.com/leosiso)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leosiso&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8)](https://github.com/leosiso)
-
-<br>
 
 ```
 "Resilience is built when defenses are deterministic, interfaces are predictable, and recovery is atomic."
