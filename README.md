@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=leosiso&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/leosiso)
 [![Focus](https://img.shields.io/badge/Focus-Systems%20%26%20Security-0ea5e9?style=for-the-badge)](https://github.com/leosiso)
-[![Environment](https://img.shields.io/badge/Environment-Windows%2011%20%2F%20WSL2%20Linux-23272e?style=for-the-badge)](https://github.com/leosiso)
+[![Environment](https://img.shields.io/badge/Environment-Windows%20%2F%20Linux-23272e?style=for-the-badge)](https://github.com/leosiso)
 
 <br>
 
@@ -21,7 +21,7 @@
 - **Defensive Security & Anti-Tamper**: Vulnerability research, binary integrity verification, deterministic resource cleanup, and safe runtime hooking.
 - **Low-Level Networking & Data Plane**: Virtual TUN/TAP interfaces, raw socket routing, TLS fingerprint simulation, and zero-allocation packet processing pipelines.
 - **Runtime Instrumentation & Binary Patching**: User-mode API hooking, binary structure analysis (PE, ASAR), dynamic instrumentation, and atomic patch application.
-- **Systems Architecture & Performance**: Windows Win32 internals, Linux kernel interfaces, Android NDK native components, and high-concurrency event loops.
+- **Systems Architecture & Performance**: Windows internals, Linux interfaces, Android NDK native components, and high-concurrency event loops.
 
 ---
 
@@ -30,7 +30,7 @@
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | `Rust` `Go` `C / C++` `Kotlin` `TypeScript` `Python` |
-| **Systems & Platforms** | `Windows Win32 / DWM` `WSL 2 Linux` `Android NDK` `Tauri 2.0` `Electron` |
+| **Systems & Platforms** | `Windows` `Linux` `Android NDK` `Tauri 2.0` `Electron` |
 | **Networking & Protocols** | `TUN / TAP Drivers` `Raw Sockets` `uTLS` `TCP / UDP / IP Routing` `Wireshark` |
 | **Engineering Invariants** | `Zero-Allocation Hot Paths` `Safety First Backups` `Atomic Rollbacks` `SHA-256 Auditing` |
 
