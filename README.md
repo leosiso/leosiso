@@ -7,7 +7,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=leosiso&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/leosiso)
 [![Focus](https://img.shields.io/badge/Focus-Systems%20%26%20Security-0ea5e9?style=for-the-badge)](https://github.com/leosiso)
 [![Environment](https://img.shields.io/badge/Environment-Windows%20%2F%20Linux-23272e?style=for-the-badge)](https://github.com/leosiso)
-
 <br>
 
 *Low-level systems programming, network protocol engineering, runtime instrumentation, and defensible architectures.*
